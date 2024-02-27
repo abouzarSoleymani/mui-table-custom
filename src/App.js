@@ -1,7 +1,7 @@
 import './App.css';
 import {MuiTableCustom} from "./mui-custom-table/mui-table-custom";
 import {ThemeProvider} from "@mui/material";
-import {theme} from "./theme";
+import {theme} from "./mui-custom-table/theme";
 
 function App() {
     const config  = {
